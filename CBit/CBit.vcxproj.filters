@@ -27,6 +27,9 @@
     <ClCompile Include="printBits2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="demo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="superlogger.h">

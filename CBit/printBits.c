@@ -26,7 +26,7 @@ void printBits(size_t const size, void const* const ptr)
 #define BIT_FLIP(a,b) ((a) ^= (1ULL<<(b)))
 #define BIT_CHECK(a,b) (!!((a) & (1ULL<<(b))))        // '!!' to make sure this returns 0 or 1
 
-void  main()
+void  main321312123()
 {
 	char tal = 0;
 

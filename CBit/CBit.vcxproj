@@ -123,6 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="demo.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="printBits.c" />
     <ClCompile Include="printBits2.c" />
